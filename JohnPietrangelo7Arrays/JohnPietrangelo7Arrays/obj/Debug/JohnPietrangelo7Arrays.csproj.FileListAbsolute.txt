@@ -1,0 +1,6 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo7Arrays\JohnPietrangelo7Arrays\bin\Debug\JohnPietrangelo7Arrays.exe.config
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo7Arrays\JohnPietrangelo7Arrays\bin\Debug\JohnPietrangelo7Arrays.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo7Arrays\JohnPietrangelo7Arrays\bin\Debug\JohnPietrangelo7Arrays.pdb
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo7Arrays\JohnPietrangelo7Arrays\obj\Debug\JohnPietrangelo7Arrays.csprojResolveAssemblyReference.cache
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo7Arrays\JohnPietrangelo7Arrays\obj\Debug\JohnPietrangelo7Arrays.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo7Arrays\JohnPietrangelo7Arrays\obj\Debug\JohnPietrangelo7Arrays.pdb
